@@ -1,2 +1,2 @@
 # be-the-hero
-Uma plataforma para ajudar ONG's a angariar recursos para solucionar casos
+Uma plataforma para ajudar ONG's a angariar para ajudar o proximo.
